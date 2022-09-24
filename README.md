@@ -1,2 +1,2 @@
-# transit-navigation-simulator
-A C program which helps the user to plan a trip by recommending the shortest paths and different buses they should take.
+# Transit navigation simulator
+A C program which helps the user to plan a trip by recommending the shortest paths and different buses they should take. An external file is used as a database for all bus stops with its coordinates. After the user's input which consists of the coordinates of the starting and final point the program makes data files with all the buses and stops the user has to travel to reach the destination.
